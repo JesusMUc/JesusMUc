@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JesusMUc
 - 👀 I’m interested in learning, new 
-- 🌱 I’m currently learning the framework Ionic, Node.js. 
+- 🌱 I’m currently learning the framework Ionic, NodeJs-Express, Laravel
 - 💞️ I am looking to collaborate on various software development projects, web applications, mobile applications, etc. To continue growing in my profession as a programmer.
 - 📫 How to reach me ...jesus_uc_marq@outlook.com
 
